@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Frameworks and Programming Languages**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DominiqueDVD](https://github.com/DominiqueDVD)
+- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/DominiqueDVD?tab=repositories)
 
 - 📫 How to reach me: **contacto@dominiquedelvalle.com**
 
-- 📄 Know about me and my work [https://dominiquedelvalle.com/](https://dominiquedelvalle.com/)
+- 📄 Know about me and my work at my [Web Page](https://dominiquedelvalle.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
