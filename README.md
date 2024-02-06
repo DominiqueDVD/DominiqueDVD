@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DominiqueDVD](https://github.com/DominiqueDVD)
 
-- 📫 How to reach me **contacto@dominiquedelvalle.com**
+- 📫 How to reach me: **contacto@dominiquedelvalle.com**
 
 - 📄 Know about me and my work [https://dominiquedelvalle.com/](https://dominiquedelvalle.com/)
 
