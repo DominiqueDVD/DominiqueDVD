@@ -7,9 +7,7 @@
 
 - 👨‍💻 All of my projects are available at my [GitHub](https://github.com/DominiqueDVD?tab=repositories)
 
-- 📫 How to reach me: **contacto@dominiquedelvalle.com**
-
-- 📄 Know about me and my work at my [Web Page](https://dominiquedelvalle.com/)
+- 📫 How to reach me: **dominique.delvalle3d@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
